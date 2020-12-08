@@ -1,8 +1,8 @@
 [Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)   
 
 ### Current Foci:
-- 🧬 Computational genomics research leveraging deep learning to find predictive variants in the DNA for genetic traits
-  - collaborating with [Jie Yuan](https://www.linkedin.com/in/jie-yuan-03429973/) under the supervision of [Dr. Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer)
+- 🧬 Computational genomics research leveraging deep learning to find variants in the DNA that are particularly predictive of phenotypic traits
+  - Collaborating with [Jie Yuan](https://www.linkedin.com/in/jie-yuan-03429973/) under the supervision of [Dr. Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer)
 - 💰 Leading and collaborating with an algorithmic trading 👯 "dream team" 
 
 <br />
