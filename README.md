@@ -7,7 +7,7 @@
 - 💻 AI research @ [ApTSi]
 
 [Jie Yuan]: https://www.linkedin.com/in/jie-yuan-03429973/
-[ApTSi]: (https://www.linkedin.com/company/aptsi/)
+[ApTSi]: https://www.linkedin.com/company/aptsi/
 
 💬 Ask me about [the simulation](https://youtu.be/ZFID_rgzE_Y).
 
