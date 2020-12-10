@@ -2,10 +2,12 @@
 
 ### Current Foci:
 - 🧬 Computational genomics research leveraging deep learning to find DNA variants that are predictive of phenotypic traits
-  - Collaborating with [Jie Yuan](https://www.linkedin.com/in/jie-yuan-03429973/) under the supervision of [Dr. Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer)
+  - Collaborating with [Jie Yuan] under the supervision of [Dr. Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer)
 - 💰 Leading and collaborating with an algorithmic trading 👯 "dream team" 
+- 💻 AI research @ [ApTSi]
 
-<br />
+[Jie Yuan]: https://www.linkedin.com/in/jie-yuan-03429973/
+[ApTSi]: (https://www.linkedin.com/company/aptsi/)
 
 💬 Ask me about [the simulation](https://youtu.be/ZFID_rgzE_Y).
 
