@@ -1,13 +1,17 @@
 [Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)   
 
 ### Current Foci:
-- 🧬 Computational genomics research leveraging deep learning to find DNA variants that are predictive of phenotypic traits
-  - Collaborating with [Jie Yuan] under the supervision of [Dr. Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer)
-- 💰 Leading and collaborating with an algorithmic trading 👯 "dream team" 
-- 💻 AI research @ [ApTSi]
+- 💻 A deep reinforcement learning (RL) research project with [Erik Skalnes](Erik): We're integrating an  attention mechanism into the actor-critic method in a way that may allow the RL agent to interpret memories
+- 💰 Leading and collaborating with an algorithmic trading 👯 "dream team"
+- 📚 Graduate school at Columbia University
+- 🤖 Artificial intelligence engineering work @ Applied Technology Solutions, Inc. ([ApTSi])
+- 🧬 Computational genomics research leveraging deep learning to find DNA variants that are predictive of phenotypic traits. [[code & more info]](GANs_for_genomics)
 
-[Jie Yuan]: https://www.linkedin.com/in/jie-yuan-03429973/
+[Erik]: https://www.linkedin.com/in/erik-skalnes/
+[Jie]: https://www.linkedin.com/in/jie-yuan-03429973/
+[Itsik]: https://www.engineering.columbia.edu/faculty/itsik-peer
 [ApTSi]: https://www.linkedin.com/company/aptsi/
+[GANs_for_genomics]: https://github.com/Unique-Divine/GANs-for-Genomics 
 
 💬 Ask me about [the simulation](https://youtu.be/ZFID_rgzE_Y).
 
