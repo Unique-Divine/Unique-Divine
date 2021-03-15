@@ -1,13 +1,13 @@
 [Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)   
 
 ### Current Foci:
-- 💻 A deep reinforcement learning (RL) research project with [Erik Skalnes](Erik): We're integrating an attention mechanism into the actor-critic method for a more sample-efficient deep RL system
+- 💻 A deep reinforcement learning (RL) research project with [Erik Skalnes]: We're integrating an attention mechanism into the actor-critic method for a more sample-efficient deep RL system
 - 💰 Leading and collaborating with an algorithmic trading 👯 "dream team"
 - 📚 Graduate school at Columbia University
 - 🤖 Artificial intelligence engineering work @ Applied Technology Solutions, Inc. ([ApTSi])
 - 🧬 Computational genomics research leveraging deep learning to find DNA variants that are predictive of phenotypic traits. [[code & more info]](https://github.com/Unique-Divine/GANs-for-Genomics)
 
-[Erik]: https://www.linkedin.com/in/erik-skalnes/
+[Erik Skalnes]: https://www.linkedin.com/in/erik-skalnes/
 [Jie]: https://www.linkedin.com/in/jie-yuan-03429973/
 [Itsik]: https://www.engineering.columbia.edu/faculty/itsik-peer
 [ApTSi]: https://www.linkedin.com/company/aptsi/ 
