@@ -1,7 +1,7 @@
 [Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)   
 
 ### Current Foci:
-- 💻 A deep reinforcement learning (RL) research project with [Erik Skalnes]: We're integrating an attention mechanism into the actor-critic method for a more sample-efficient deep RL system
+- 💻 A deep reinforcement learning (RL) research project with [Erik Skalnes]: We're trying to improve sample-efficiency in deep RL with attention mechanisms.
 - 💰 Leading and collaborating with an algorithmic trading 👯 "dream team"
 - 📚 Graduate school at Columbia University
 - 🤖 Artificial intelligence engineering work @ Applied Technology Solutions, Inc. ([ApTSi])
