@@ -1,18 +1,22 @@
 [Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)   
 
 ### Current Foci:
-- 💻 A deep reinforcement learning (RL) research project with [Erik Skalnes]: We're trying to improve sample-efficiency in deep RL with attention mechanisms.
-- 💰 Leading and collaborating with an algorithmic trading 👯 "dream team"
+- 💻 A research project with [Erik Skalnes] to improve the sample-efficiency of vision-based deep reinforcement learning (RL) systems by using attention mechanisms to interpret memories.
 - 📚 Graduate school at Columbia University
+- 🧬 Computational genomics research leveraging deep learning to generate synthetic DNA samples. [[code & more info]](https://github.com/Unique-Divine/GANs-for-Genomics)
+- 💰 Leading and collaborating with an algorithmic trading 👯 "dream team"
 - 🤖 Artificial intelligence engineering work @ Applied Technology Solutions, Inc. ([ApTSi])
-- 🧬 Computational genomics research leveraging deep learning to find DNA variants that are predictive of phenotypic traits. [[code & more info]](https://github.com/Unique-Divine/GANs-for-Genomics)
 
 [Erik Skalnes]: https://www.linkedin.com/in/erik-skalnes/
 [Jie]: https://www.linkedin.com/in/jie-yuan-03429973/
 [Itsik]: https://www.engineering.columbia.edu/faculty/itsik-peer
 [ApTSi]: https://www.linkedin.com/company/aptsi/ 
 
-💬 Ask me about [the simulation](https://youtu.be/ZFID_rgzE_Y).
+"And if there is no God  
+I'll know the day I die I lived through heaven  
+And that I gave it hell  
+And if it hurt, oh well  
+At least that's living..." - [Eden](https://youtu.be/geZ_5Ri7ANg). 
 
 <!--
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -33,7 +37,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...Anki and language learning Japanese learning.
+- 💬 Ask me about ...Anki and language learning Japanese.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
