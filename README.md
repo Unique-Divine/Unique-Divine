@@ -1,13 +1,12 @@
 [Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)   
 
 ### Current Foci:
-- 💻 A research project with [Erik Skalnes] to improve the sample-efficiency of vision-based deep reinforcement learning (RL) systems by using attention mechanisms to interpret memories.
+- 💻 A research project to improve the sample-efficiency of vision-based deep reinforcement learning (RL) systems by using transfer learning, unsupervised representation learning, and attention mechanisms to interpret memories. [[code]](https://github.com/eskalnes/RL_memory)
 - 📚 Graduate school at Columbia University
 - 🧬 Computational genomics research leveraging deep learning to generate synthetic DNA samples. [[code & more info]](https://github.com/Unique-Divine/GANs-for-Genomics)
 - 💰 Leading and collaborating with an algorithmic trading 👯 "dream team"
 - 🤖 Artificial intelligence engineering work @ Applied Technology Solutions, Inc. ([ApTSi])
 
-[Erik Skalnes]: https://www.linkedin.com/in/erik-skalnes/
 [Jie]: https://www.linkedin.com/in/jie-yuan-03429973/
 [Itsik]: https://www.engineering.columbia.edu/faculty/itsik-peer
 [ApTSi]: https://www.linkedin.com/company/aptsi/ 
