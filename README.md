@@ -2,7 +2,7 @@
 
 ### Current Foci:
 - 💻 A research project to improve the sample efficiency of vision-based deep reinforcement learning (RL) systems using transfer learning, unsupervised representation learning, and attention mechanisms to interpret memories. [[code]](https://github.com/eskalnes/RL_memory)
-- 📚 Graduate school at Columbia University
+- 📚 Graduate school at Columbia University. [[recent project]](https://github.com/Unique-Divine/SA-Project)
 - 🧬 Computational genomics research leveraging deep learning to generate synthetic DNA samples. [[code & more info]](https://github.com/Unique-Divine/GANs-for-Genomics)
 - 💰 Leading and collaborating with an algorithmic trading 👯 "dream team"
 - 🤖 Artificial intelligence engineering work @ Applied Technology Solutions, Inc. ([ApTSi])
