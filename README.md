@@ -1,4 +1,7 @@
-[Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)   
+[Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/) 
+[<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn] 
+[<img align="right" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
+[<img align="right" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ### Current Foci:
 - 💻 A research project to improve the sample efficiency of vision-based deep reinforcement learning (RL) systems using transfer learning, unsupervised representation learning, and attention mechanisms to interpret memories. [[code]](https://github.com/eskalnes/RL_memory)
@@ -23,11 +26,9 @@ At least that's living..." - [Eden](https://youtu.be/geZ_5Ri7ANg).
 <!--
 -->
 
-[<img align="left" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [website]: https://unique-divine.github.io/projects/
-[linkedin]: https://www.linkedin.com/in/unique-divine/
+[LinkedIn]: https://www.linkedin.com/in/unique-divine/
+[Facebook]: https://www.facebook.com/real.unique.divine 
 
 <!--
 **Unique-Divine/Unique-Divine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
