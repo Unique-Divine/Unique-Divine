@@ -5,17 +5,16 @@
 
 ### Current Foci:
 - 💻 A research project to improve the sample efficiency of vision-based deep reinforcement learning (RL) systems using transfer learning, unsupervised representation learning, and attention mechanisms to interpret memories. [[code]](https://github.com/eskalnes/RL_memory)
-- 📚 Graduate school at Columbia University. 
-  - [[Banknote Fraud Detection]][fraud detection], [[Click-Through Rate Prediction]][CTR], [[Recent Stochastic Analysis project]](https://github.com/Unique-Divine/SA-Project)
+- 📚 Graduate school at Columbia University. I finish June 2021. Here's a [recent project].
 - 🧬 Computational genomics research leveraging deep learning to generate synthetic DNA samples. [[code & more info]](https://github.com/Unique-Divine/GANs-for-Genomics)
-- 💰 Leading and collaborating with an algorithmic trading 👯 "dream team"
+- 💰 Leading and collaborating with an algorithmic trading team 👯
 - 🤖 Artificial intelligence engineering work @ Applied Technology Solutions, Inc. ([ApTSi])
 
 [Jie]: https://www.linkedin.com/in/jie-yuan-03429973/
 [Itsik]: https://www.engineering.columbia.edu/faculty/itsik-peer
 [ApTSi]: https://www.linkedin.com/company/aptsi/ 
-[fraud detection]: https://github.com/Unique-Divine/Banknote-Fraud-Detection
-[CTR]: https://github.com/Unique-Divine/Click-Through-Rate-Prediction
+
+[recent project]: https://github.com/Unique-Divine/SA-Project
 
 "And if there is no God  
 I'll know the day I die I lived through heaven  
