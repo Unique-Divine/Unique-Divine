@@ -14,7 +14,7 @@
 [Itsik]: https://www.engineering.columbia.edu/faculty/itsik-peer
 [ApTSi]: https://www.linkedin.com/company/aptsi/ 
 
-[recent project]: https://github.com/Unique-Divine/SA-Project
+[recent project]: https://github.com/Unique-Divine/Langevin-Dynamics-for-NN-Optimization
 
 "And if there is no God  
 I'll know the day I die I lived through heaven  
