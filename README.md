@@ -5,16 +5,18 @@
 
 ### Current Foci:
 - 💻 A research project to improve the sample efficiency of vision-based deep reinforcement learning (RL) systems using transfer learning, unsupervised representation learning, and attention mechanisms to interpret memories. [[code]](https://github.com/eskalnes/RL_memory)
-- 📚 Graduate school at Columbia University. I finish June 2021. Here's a [recent project].
+- 🏫 I finished graduate school at Columbia University last month. Here's a [recent project].
 - 🧬 Computational genomics research leveraging deep learning to generate synthetic DNA samples. [[code & more info]](https://github.com/Unique-Divine/GANs-for-Genomics)
 - 💰 Leading and collaborating with an algorithmic trading team 👯
-- 🤖 Artificial intelligence engineering work @ Applied Technology Solutions, Inc. ([ApTSi])
+<!-- - 🤖 Artificial intelligence engineering work @ Applied Technology Solutions, Inc. ([ApTSi]) -->
+- 📚 Earlier this year, I decided to read and take notes on a minimum of two books per month. [[current progress]][reading-list]
 
 [Jie]: https://www.linkedin.com/in/jie-yuan-03429973/
 [Itsik]: https://www.engineering.columbia.edu/faculty/itsik-peer
 [ApTSi]: https://www.linkedin.com/company/aptsi/ 
 
 [recent project]: https://github.com/Unique-Divine/Langevin-Dynamics-for-NN-Optimization
+[reading-list]: http://uniquedivine.xyz/about/
 
 "And if there is no God  
 I'll know the day I die I lived through heaven  
