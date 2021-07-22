@@ -1,0 +1,11 @@
+📚 I've been doing a lot more pleasure reading since finishing graduate school this year. I've particularly enjoyed reading...
+- How to Fail at Almost Everything and Still Win Big by Scott Adams
+- If I understood you, would I have this look on my face? by Alan Alda
+- On Writing by Stephen King
+- Show Your Work! by Austin Kleon
+- Something Deeply Hidden by Sean Carroll
+- So Good They Can’t Ignore You by Cal Newport
+- The 4-Hour Workweek by Tim Ferriss
+- How to Stop Worrying and Start Living by Dale Carnegie (in progress)
+- A Promised Land by Barack Obama
+- Machines Who Think by Pamela McCorduck
