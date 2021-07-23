@@ -32,7 +32,7 @@ At least that's living..." - [Eden](https://youtu.be/geZ_5Ri7ANg).
 [Jie]: https://www.linkedin.com/in/jie-yuan-03429973/
 [Itsik]: https://www.engineering.columbia.edu/faculty/itsik-peer
 [ApTSi]: https://www.linkedin.com/company/aptsi/ 
-[reading-list]: http://uniquedivine.xyz/about/
+[reading-list]: https://github.com/Unique-Divine/Unique-Divine/blob/master/2021-reading-list.md
 
 <!-- Repo links -->
 [recent project]: https://github.com/Unique-Divine/Langevin-Dynamics-for-NN-Optimization
