@@ -6,6 +6,13 @@
 - Something Deeply Hidden by Sean Carroll
 - So Good They Can’t Ignore You by Cal Newport
 - The 4-Hour Workweek by Tim Ferriss
-- How to Stop Worrying and Start Living by Dale Carnegie (in progress)
-- A Promised Land by Barack Obama
 - Machines Who Think by Pamela McCorduck
+
+##### In progress:
+- The Diaries of Adam and Eve by Mark Twain
+- How to Stop Worrying and Start Living by Dale Carnegie 
+
+##### Up next:
+- A Promised Land by Barack Obama
+- About Face: The Odyssey of an American Warrior by David Hackworth & Julie Sherman
+- Educated by Tara Westover [[summary]](https://github.com/Unique-Divine/Unique-Divine.git)
