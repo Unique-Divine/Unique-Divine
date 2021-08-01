@@ -36,7 +36,7 @@ At least that's living..." - [Eden](https://youtu.be/geZ_5Ri7ANg).
 
 <!-- Repo links -->
 [recent project]: https://github.com/Unique-Divine/Langevin-Dynamics-for-NN-Optimization
-[rl-memory]: https://github.com/eskalnes/RL_memory
+[rl-memory]: https://github.com/Unique-Divine/RL_memory
 [genomics-gans-code]: https://github.com/Unique-Divine/GANs-for-Genomics
 [langevin-repo]: https://github.com/Unique-Divine/Langevin-Dynamics-for-NN-Optimization
 
