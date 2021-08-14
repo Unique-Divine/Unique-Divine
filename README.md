@@ -5,16 +5,18 @@
 
 ### What I'm currently focused on: 
 
-#### §1. Work
-- 📊 Data science @ IBM
+<!-- #### §1. Work
+- 📊 Data science @ IBM -->
 
-#### §2. Side projects
+#### §1. Active projects
 - 💻 A research project in vision-based, deep reinforcement learning. The goal is to improve sample efficiency using transfer learning, unsupervised representation learning, and attention mechanisms to interpret memories. [[code]][rl-memory]
 - 🧬 Computational genomics research | I leverage deep learning to generate and learn from synthetic DNA samples. [[code]][genomics-gans-code]
-- 🤖 Artificial intelligence and DevOps work on healthcare applications @ Applied Technology Solutions, Inc. ([ApTSi])
-- 💰 Leading and collaborating with an algorithmic trading team 👯
+- 📝 Writing self-contained tutorials for data structures and algorithms in Python. [[doc]][commonplace-code.md] 
 
-#### §3. Other interests
+<!-- - 🤖 Artificial intelligence and DevOps work on healthcare applications @ Applied Technology Solutions, Inc. ([ApTSi]) -->
+<!-- - 💰 Leading and collaborating with an algorithmic trading team 👯 -->
+
+#### §2. Other interests
 
 I try not to go a day without practicing 🎷, 🎹, or 🎸
 - 📚 Earlier this year, I decided to read and take notes on a minimum of two books per month. [[current progress]][reading-list]
@@ -39,6 +41,7 @@ At least that's living..." - [Eden](https://youtu.be/geZ_5Ri7ANg).
 [rl-memory]: https://github.com/Unique-Divine/RL_memory
 [genomics-gans-code]: https://github.com/Unique-Divine/GANs-for-Genomics
 [langevin-repo]: https://github.com/Unique-Divine/Langevin-Dynamics-for-NN-Optimization
+[commonplace-code.md]: https://github.com/Unique-Divine/Commonplace-Book/blob/master/code.md
 
 <!-- Icons links -->
 [website]: https://unique-divine.github.io/projects/
