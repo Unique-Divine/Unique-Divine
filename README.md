@@ -20,7 +20,7 @@
 
 I try not to go a day without practicing 🎷, 🎹, or 🎸
 - 📚 Earlier this year, I decided to read and take notes on a minimum of two books per month. [[current progress]][reading-list]
-- 🏫 I finished graduate school at Columbia University last month. Here's a [recent project][langevin-repo].
+- 🏫 I finished graduate school at Columbia University this year. Here's a [recent project][langevin-repo].
 
 "And if there is no God  
 I'll know the day I die I lived through heaven  
