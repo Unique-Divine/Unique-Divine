@@ -9,10 +9,12 @@
 - Machines Who Think by Pamela McCorduck
 
 ##### In progress:
-- The Diaries of Adam and Eve by Mark Twain
 - How to Stop Worrying and Start Living by Dale Carnegie 
+- Grit: The Power of Passion and Perseverance by Angela Duckworth
+- Art & Fear by David Bayles and Ted Orland
 
 ##### Up next:
 - A Promised Land by Barack Obama
 - About Face: The Odyssey of an American Warrior by David Hackworth & Julie Sherman
 - Educated by Tara Westover [[summary]](https://github.com/Unique-Divine/Unique-Divine.git)
+- The Diaries of Adam and Eve by Mark Twain 
