@@ -6,7 +6,7 @@
 
 ### §1 — Summary <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I'm a builder in the Cosmos Ecosystem and one of the lead engineers for a new DeFi hub named [Nibiru](https://github.com/NibiruChain). I like making things, whether it's artwork, music, or software applications. Creating things makes me happy. 
+I'm a builder in the Cosmos Ecosystem and one of the lead engineers for a new DeFi hub named [Nibiru](https://github.com/NibiruChain). I like making things, whether it's artwork, music, or software applications. 
  
 ### §2 — Some open-source projects
 
