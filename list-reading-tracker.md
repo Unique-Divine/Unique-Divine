@@ -1,4 +1,6 @@
 
+## 2021
+
 📚 I've been doing a lot more pleasure reading since finishing graduate school this year. I've particularly enjoyed reading...
 
 - How to Fail at Almost Everything and Still Win Big by Scott Adams

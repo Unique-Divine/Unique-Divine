@@ -1,21 +1,21 @@
 <!-- [Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)  -->
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][social-LinkedIn] 
-[<img align="right" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][social-Facebook]
+<!-- [<img align="right" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][social-Facebook] -->
 [<img align="right" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][social-Twitter]
 [<img align="right" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ### §1 — Summary <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I'm a builder in the Cosmos Ecosystem and one of the lead engineers for a new DeFi hub named [Nibiru](https://github.com/NibiruChain). I like making things, whether it's artwork, music, or software applications. Creating things makes me happy. 
+I'm a builder in the Cosmos Ecosystem and one of the lead engineers for a new DeFi hub named [Nibiru](https://nibiru.fi). I like making things, especially  artwork, music, and software applications. 
  
 ### §2 — Some open-source projects
 
 | Repository | Description |
 | ---- | ----------- |
 | 🐍 [python-crypto-api-wrappers] | A Python package for wrapping common Crypto APIs like Messari, Coin Market Cap, Etherscan, etc. |
-| 📝 [Commonplace book](https://unique-divine.gitbook.io/commonplace-book/introduction/readme) |  Notes, tutorials, and reference materials for Python, Golang and the Cosmos SDK, Typescript, React, Artificial Intelligence, and effective learning. |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=18> [NibiruChain/sdk-ts](https://github.com/NibiruChain/sdk-ts/) | TypeScript-based client SDK for interacting with the Nibiru blockchain |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=18> [NibiruChain/ts-sdk](https://github.com/NibiruChain/ts-sdk/) | A TypeScript-based client SDK for interacting with the Nibiru blockchain. Published as [@nibiruchain/nibijs](https://www.npmjs.com/package/@nibiruchain/nibijs) on npm. |
 | 💻 [RL_Memory][rl-memory] | A research project in vision-based, deep reinforcement learning. The goal is to improve sample efficiency using transfer learning, unsupervised representation learning, and attention mechanisms to interpret memories. |
+| 📝 [Commonplace book][commonplace-book] |  Notes, tutorials, and reference materials for Python, Golang and the Cosmos SDK, Typescript, React, Artificial Intelligence, and effective learning. |
 | <img src="https://www.assemblyscript.org/images/icon.svg" style="width:18px; margin: 0; display:inline;"> [cellar-subgraphs](https://github.com/PeggyJV/cellar-subgraphs/) | Subgraphs to process and store entities for blockchain events emitted from the Sommelier Cellar contracts. Built using The Graph's AssemblyScript library, `graph-ts`.  |
 | 🧬 [GANs-for-Genomics][genomics-gans-code] | Computational genomics research where I leveraged deep learning to generate and learn from synthetic DNA samples. |
 | 🏫 [Langevin-Dynamics-for-NN-Optimization][langevin-repo] | Bayesian Neural Network (BNN) implementations based on Langevin Dynamics and tested on real-world data |
@@ -41,18 +41,18 @@ At least that's living..." - [Eden](https://youtu.be/geZ_5Ri7ANg).
 [rl-memory]: https://github.com/Unique-Divine/RL_memory
 [genomics-gans-code]: https://github.com/Unique-Divine/GANs-for-Genomics
 [langevin-repo]: https://github.com/Unique-Divine/Langevin-Dynamics-for-NN-Optimization
-[commonplace-code.md]: https://github.com/Unique-Divine/Commonplace-Book/blob/master/code.md
 
 <!-- Icons links -->
 [website]: https://unique-divine.github.io/projects/
 [social-LinkedIn]: https://www.linkedin.com/in/unique-divine/
 [social-Twitter]: https://twitter.com/RealUDivine
 [social-Facebook]: https://www.facebook.com/real.unique.divine 
+[commonplace-book]: https://unique-divine.gitbook.io/commonplace-book
 
 <!--  Other links -->
 [Jie]: https://www.linkedin.com/in/jie-yuan-03429973/
 [Itsik]: https://www.engineering.columbia.edu/faculty/itsik-peer
-[reading-list]: https://github.com/Unique-Divine/Unique-Divine/blob/master/2021-reading-list.md
+[reading-list]: https://github.com/Unique-Divine/Unique-Divine/blob/master/list-reading-tracker.md
 
 <!--
 **Unique-Divine/Unique-Divine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
