@@ -1,6 +1,6 @@
 <!-- [Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)  -->
+
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][social-LinkedIn] 
-<!-- [<img align="right" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][social-Facebook] -->
 [<img align="right" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][social-Twitter]
 [<img align="right" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
