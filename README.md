@@ -1,12 +1,16 @@
-<!-- [Software Project Portfolio](https://unique-divine.github.io/projects/) • [Resume](https://unique-divine.github.io/resume_public.pdf) • [About Me](https://unique-divine.github.io/about/) • [Blog](https://unique-divine.github.io/)  -->
-
-[<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][social-LinkedIn] 
-[<img align="right" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][social-Twitter]
-[<img align="right" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<a href="https://uniquedivine.blog">
+  <img align="right" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
+<a href="https://www.linkedin.com/in/unique-divine/">
+  <img align="right" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/NibiruChain/.github/master/img/linkedin.svg" />
+</a>
+<a href="https://twitter.com/DeusExUnicus">
+  <img align="right" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/NibiruChain/.github/master/img/twitter.svg" />
+</a>
 
 ### §1 — Summary <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I'm a builder in the Cosmos Ecosystem and one of the lead engineers for a new DeFi hub named [Nibiru](https://nibiru.fi). I like making things, especially artwork, music, and software applications. 
+I'm a builder in the Cosmos Ecosystem and one of the lead engineers for a new DeFi hub named [Nibiru Chain](https://nibiru.fi). I like making things, especially artwork, music, and software applications. 
  
 ### §2 — Some open-source projects
 
@@ -43,9 +47,6 @@ At least that's living..." - [Eden](https://youtu.be/geZ_5Ri7ANg).
 [langevin-repo]: https://github.com/Unique-Divine/Langevin-Dynamics-for-NN-Optimization
 
 <!-- Icons links -->
-[website]: https://unique-divine.github.io/projects/
-[social-LinkedIn]: https://www.linkedin.com/in/unique-divine/
-[social-Twitter]: https://twitter.com/RealUDivine
 [social-Facebook]: https://www.facebook.com/real.unique.divine 
 [commonplace-book]: https://unique-divine.gitbook.io/commonplace-book
 
