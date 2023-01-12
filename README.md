@@ -2,10 +2,10 @@
   <img align="right" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://www.linkedin.com/in/unique-divine/">
-  <img align="right" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/NibiruChain/.github/master/img/linkedin.svg" />
+  <img align="right" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/Unique-Divine/Unique-Divine/master/img/linkedin.svg" />
 </a>
 <a href="https://twitter.com/DeusExUnicus">
-  <img align="right" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/NibiruChain/.github/master/img/twitter.svg" />
+  <img align="right" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/Unique-Divine/Unique-Divine/master/img/twitter.svg" />
 </a>
 
 ### §1 — Summary <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
