@@ -1,3 +1,5 @@
+<div style="display: flex; flex-direction: row;">
+
 <a href="https://uniquedivine.blog">
   <img align="right" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -9,6 +11,9 @@
 </a>
 
 ### §1 — Summary <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
+</div>
+
 
 I'm a builder in the Cosmos Ecosystem and one of the lead engineers for a new DeFi hub named [Nibiru Chain](https://nibiru.fi). I like making things, especially artwork, music, and software applications. 
  
