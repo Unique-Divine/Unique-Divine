@@ -14,27 +14,26 @@
   
 </div>
 
-
-I'm a builder in the Cosmos Ecosystem and one of the lead engineers for a new DeFi hub named [Nibiru Chain](https://nibiru.fi). I like making things, especially artwork, music, and software applications. 
+I'm a programmer that makes music. I'm obsessed with learning, solving problems, and creating, whether this involves music, artwork, or software applications. For work, I build [Nibiru Chain](https://nibiru.fi), a breakthrough smart contract ecosystem in the blockchain space.
  
-### §2 — Some open-source projects
+### §2 — Some Open-source Projects
 
 | Repository | Description |
 | ---- | ----------- |
+| 💻 [grid-world-plus][rl-memory] | A research project in vision-based, deep reinforcement learning. The goal of this project was to improve sample efficiency to interpret memories using transfer learning, unsupervised representation learning, and attention mechanisms. |
 | 🐍 [python-crypto-api-wrappers] | A Python package for wrapping common Crypto APIs like Messari, Coin Market Cap, Etherscan, etc. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=18> [NibiruChain/ts-sdk](https://github.com/NibiruChain/ts-sdk/) | A TypeScript-based client SDK for interacting with the Nibiru blockchain. Published as [@nibiruchain/nibijs](https://www.npmjs.com/package/@nibiruchain/nibijs) on npm. |
-| 💻 [RL_Memory][rl-memory] | A research project in vision-based, deep reinforcement learning. The goal is to improve sample efficiency using transfer learning, unsupervised representation learning, and attention mechanisms to interpret memories. |
 | 📝 [Commonplace book][commonplace-book] |  Notes, tutorials, and reference materials for Python, Golang and the Cosmos SDK, Typescript, React, Artificial Intelligence, and effective learning. |
 | <img src="https://www.assemblyscript.org/images/icon.svg" style="width:18px; margin: 0; display:inline;"> [cellar-subgraphs](https://github.com/PeggyJV/cellar-subgraphs/) | Subgraphs to process and store entities for blockchain events emitted from the Sommelier Cellar contracts. Built using The Graph's AssemblyScript library, `graph-ts`.  |
 | 🧬 [GANs-for-Genomics][genomics-gans-code] | Computational genomics research where I leveraged deep learning to generate and learn from synthetic DNA samples. |
 | 🏫 [Langevin-Dynamics-for-NN-Optimization][langevin-repo] | Bayesian Neural Network (BNN) implementations based on Langevin Dynamics and tested on real-world data |
 
-### §3 — Other interests 
+### §3 — Other Passions and Interests 
 
 - 🎼 Music: I try not to go a day without practicing 🎷 or 🎹.
-- 📊 Algorithmic trading
-- 📚 Reading: Some time in 2021, I decided to read and take notes on roughly two books a month. [[reading list]][reading-list]
 - 🧠 [Anki](https://apps.ankiweb.net/): I'm a huge nerd about spaced repetition software and other strategies for accelerated learning. I've been using Anki to learn faster and remember more of what I learn for probably 5+ years at this point. Although I have over 100,000 mature cards, the reviews take up less than 10 minutes a day when I stop adding new material. Using Anki effectively was a crucial element in my journey to [learn Japanese to fluency](https://uniquedivine.blog/post/japanese/why_learn_jp_again/). 
+<!-- - 📊 Algorithmic trading -->
+<!-- - 📚 Reading: Starting in 2021, I decided to read and take notes on roughly two books a month. I mostly read biographies, books on science and tech, and self-help. [[reading list]][reading-list] -->
 
 "And if there is no God  
 I'll know the day I die I lived through heaven  
