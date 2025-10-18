@@ -22,8 +22,11 @@ I'm a programmer that makes music and writes. I live to with learn, solve proble
 | ---- | --- |
 | <img src="https://uniquedivine.blog/hero/nibiru-icon.png" height=18> [NibiruChain/nibiru](https://github.com/NibiruChain/nibiru) | Nibiru source code. Nibiru is a breakthrough smart contract platform powering an ecosystem of decentralized applications. |
 | <img src="https://uniquedivine.blog/hero/nibiru-icon.png" style="width:18px;height:18px;display:inline"> [NibiruChain/nibiru-wasm](https://github.com/NibiruChain/nibiru-wasm) | Rust monorepo and smart contract prototyping hub for Nibiru. Includes dev tooling, production and example smart contracts, an end-to-end testing framework, and other useful libraries. |
+| <img src="https://raw.githubusercontent.com/Unique-Divine/Unique-Divine/master/img/neovim-mark.svg" height=18> [Unique-Divine/dotfiles](https://github.com/Unique-Divine/dotfiles/) | Dotfiles, config for nvim, tmux, zsh, a nice bash library for scripts, and a reproducible build configuration for my machine. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=18> [NibiruChain/ts-sdk](https://github.com/NibiruChain/ts-sdk/) | A TypeScript-based client SDK for interacting with the Nibiru blockchain. Published as [@nibiruchain/nibijs](https://www.npmjs.com/package/@nibiruchain/nibijs) on npm. |
 | 📝 [Commonplace book][commonplace-book] |  Notes, tutorials, and reference materials for Python, Golang and the Cosmos SDK, Typescript, React, Artificial Intelligence, and effective learning. |
+
+"https://raw.githubusercontent.com/Unique-Divine/Unique-Divine/master/img/neovim-mark.svg"
 
 
 ### §3 — Legacy Projects
