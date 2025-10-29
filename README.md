@@ -32,11 +32,11 @@ I'm a programmer that makes music and writes. I live to with learn, solve proble
 - 🎼 Music: I practice the 🎷 and 🎹.
 - 🧠 [Anki](https://apps.ankiweb.net/): I'm a huge nerd about spaced repetition software and other strategies for accelerated learning. I've been using Anki to learn faster and remember more of what I learn for probably 5+ years at this point. Although I have over 100,000 mature cards, the reviews take up less than 10 minutes a day when I stop adding new material. Using Anki effectively was a crucial element in my journey to [learn Japanese to fluency](https://uniquedivine.blog/post/japanese/why_learn_jp_again/).
 
-> "And if there is no God
-I'll know the day I die I lived through heaven
-And that I gave it hell
-And if it hurt, oh well
-At least that's living..." - [Eden](https://youtu.be/geZ_5Ri7ANg).
+> "And if there is no God  
+> I'll know the day I die I lived through heaven  
+> And that I gave it hell  
+> And if it hurt, oh well  
+> At least that's living..." - [Eden](https://youtu.be/geZ_5Ri7ANg).
 
 ### §4: Legacy Projects
 
