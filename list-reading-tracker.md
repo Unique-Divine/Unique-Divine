@@ -1,5 +1,4 @@
-
-## 2021
+# Reading Tracker
 
 📚 I've been doing a lot more pleasure reading since finishing graduate school this year. I've particularly enjoyed reading...
 
@@ -22,6 +21,6 @@
 
 - A Promised Land by Barack Obama
 - About Face: The Odyssey of an American Warrior by David Hackworth & Julie Sherman
-- Educated by Tara Westover [[summary]](https://www.gatesnotes.com/books/educated)
+- Educated by Tara Westover [[summary](https://www.gatesnotes.com/books/educated)]
 - The Diaries of Adam and Eve by Mark Twain 
 - Grit: The Power of Passion and Perseverance by Angela Duckworth
