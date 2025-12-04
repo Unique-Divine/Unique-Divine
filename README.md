@@ -14,13 +14,13 @@
 
 ### §1: Summary <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I'm a programmer that makes music and writes. I live to with learn, solve problems, and create, whether this involves music, artwork, or coding. For work, I build [Nibiru](https://nibiru.fi), a breakthrough smart contract ecosystem in the blockchain space.
+I'm a programmer that makes music and writes. I love to learn, solve problems, and create, whether that involves music, artwork, or coding. For work, I build [Nibiru](https://nibiru.fi), a blockchain built for speed, scale, and ease of use.
  
 ### §2: Active Open-source Projects
 
 | Repository | Description | 
 | ---- | --- |
-| <img src="https://uniquedivine.com/hero/nibiru-icon.png" height=18> [NibiruChain/nibiru](https://github.com/NibiruChain/nibiru) | Nibiru source code. Nibiru is a breakthrough smart contract platform powering an ecosystem of decentralized applications. |
+| <img src="https://uniquedivine.com/hero/nibiru-icon.png" height=18> [NibiruChain/nibiru](https://github.com/NibiruChain/nibiru) | Nibiru blockchain Go source code. |
 | ⚡ [Unique-Divine/jiyuu](https://github.com/Unique-Divine/jiyuu) | CLI utilities monorepo solving concrete dev problems: Go coverage merging (gocovmerge), Windows↔Linux encoding fixes (winfixtext), language-agnostic dev commands across Go/Rust/TS (mycli), Markdown TOC generation (mdtoc), and LLM context parsing (aictx). Built primarily in Go with TypeScript components. |
 | <img src="https://uniquedivine.com/hero/nibiru-icon.png" style="width:18px;height:18px;display:inline"> [NibiruChain/nibiru-wasm](https://github.com/NibiruChain/nibiru-wasm) | Rust monorepo and smart contract prototyping hub for Nibiru. Includes dev tooling, production and example smart contracts, an end-to-end testing framework, and other useful libraries. |
 | <img src="https://raw.githubusercontent.com/Unique-Divine/Unique-Divine/master/img/neovim-mark.svg" height=18> [Unique-Divine/dotfiles](https://github.com/Unique-Divine/dotfiles/) | Dotfiles, config for nvim, tmux, zsh, a nice bash library for scripts, and a reproducible build configuration for my machine. |
